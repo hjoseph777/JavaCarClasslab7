@@ -26,7 +26,8 @@ The `Car` class represents a car with attributes such as make, model, color, sta
   - `displayCarInfo()`: Displays the car's information.
 
 <!---[-->View Car.java](src/main/java/com/me/carclass/Car.java)-->
-[-->Car.java](../carclassproject/src/main/java/com/me/carclass/Car.java)
+
+[-->Car.java](https://github.com/hjoseph777/JavaCarClasslab7/blob/75865ef7632069cbf7b5b6f9f45a36affd83e514/carclassproject/src/main/java/com/me/carclass/Car.java)
 
 ### CarClass.java
 
