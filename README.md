@@ -25,7 +25,7 @@ The `Car` class represents a car with attributes such as make, model, color, sta
   - `displayState()`: Displays the car's current state, including status, speed, and gear.
   - `displayCarInfo()`: Displays the car's information.
 
-<!---[-->View Car.java](src/main/java/com/me/carclass/Car.java)-->
+
 
 [-->Car.java](https://github.com/hjoseph777/JavaCarClasslab7/blob/75865ef7632069cbf7b5b6f9f45a36affd83e514/carclassproject/src/main/java/com/me/carclass/Car.java)
 
@@ -50,22 +50,15 @@ The `CarClass` class contains the `main` method and serves as the entry point fo
     - Switches gear to 'p'.
     - Honks the horn.
 
-<!--[-->View CarClass.java](src/main/java/com/me/carclass/CarClass.java) -->
-
-<!--[-->CarClass.java](../carclassproject/src/main/java/com/me/carclass/Carclass.java) -->
 
 
 [-->CarClass.java](https://github.com/hjoseph777/JavaCarClasslab7/blob/75865ef7632069cbf7b5b6f9f45a36affd83e514/carclassproject/src/main/java/com/me/carclass/Car.java)
 
-## Images
+## click each Image to increase view
 
-<!--- ![Output Screen](/carclassproject/images/OutputScreenlab7_1.png)
-- ![Class Diagram](/carclassproject/images/OutputScreenlab7_2.png)
-- ![Class Diagram](/carclassproject/images/OutputScreenlab7_3.png)
--->
 <div style="width:auto; height:550px; font-size:20px; text-align:center;">
 
-| Output 1 | Output 2 | Output 3 |
+| Screen Output 1 | Screen  Output 2 | Screen Output 3 |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="/carclassproject/images/OutputScreenlab7_3.png" style="width:600px; height:550px;"> | <img src="/carclassproject/images/OutputScreenlab7_1.png" style="width:auto; height:500px;"> | <img src="/carclassproject/images/OutputScreenlab7_2.png" style="width:auto; height:500px;"> |
 
