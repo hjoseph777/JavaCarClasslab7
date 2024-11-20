@@ -52,7 +52,10 @@ The `CarClass` class contains the `main` method and serves as the entry point fo
 
 <!--[-->View CarClass.java](src/main/java/com/me/carclass/CarClass.java) -->
 
-[-->CarClass.java](../carclassproject/src/main/java/com/me/carclass/Carclass.java)
+<!--[-->CarClass.java](../carclassproject/src/main/java/com/me/carclass/Carclass.java) -->
+
+
+[-->CarClass.java](https://github.com/hjoseph777/JavaCarClasslab7/blob/75865ef7632069cbf7b5b6f9f45a36affd83e514/carclassproject/src/main/java/com/me/carclass/Car.java)
 
 ## Images
 
