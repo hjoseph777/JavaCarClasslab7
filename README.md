@@ -52,9 +52,14 @@ The `CarClass` class contains the `main` method and serves as the entry point fo
 
 ## Images
 
-- ![Output Screen](/carclassproject/images/OutputScreenlab7_1.png)
+<!--- ![Output Screen](/carclassproject/images/OutputScreenlab7_1.png)
 - ![Class Diagram](/carclassproject/images/OutputScreenlab7_2.png)
 - ![Class Diagram](/carclassproject/images/OutputScreenlab7_3.png)
+-->
+
+| Screen Output 1 | Screen Output 2 | Screen Output 3 |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="/carclassproject/images/OutputScreenlab7_3.png" style="width:550px; height:auto;"> | <img src="/carclassproject/images/OutputScreenlab7_1.png" style="width:550px; height:auto;"> | <img src="/carclassproject/images/OutputScreenlab7_2.png" style="width:550px; height:auto;"> |
 
 ## Author: [Harry Joseph](https://github.com/hjoseph777)
 ## Date: 2024-11-19
