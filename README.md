@@ -25,7 +25,8 @@ The `Car` class represents a car with attributes such as make, model, color, sta
   - `displayState()`: Displays the car's current state, including status, speed, and gear.
   - `displayCarInfo()`: Displays the car's information.
 
-[-->View Car.java](src/main/java/com/me/carclass/Car.java)
+<!---[-->View Car.java](src/main/java/com/me/carclass/Car.java)-->
+[-->Car.java](../carclassproject/src/main/java/com/me/carclass/Car.java)
 
 ### CarClass.java
 
@@ -48,7 +49,9 @@ The `CarClass` class contains the `main` method and serves as the entry point fo
     - Switches gear to 'p'.
     - Honks the horn.
 
-[-->View CarClass.java](src/main/java/com/me/carclass/CarClass.java)
+<!--[-->View CarClass.java](src/main/java/com/me/carclass/CarClass.java) -->
+
+[-->CarClass.java](../carclassproject/src/main/java/com/me/carclass/Carclass.java)
 
 ## Images
 
